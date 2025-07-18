@@ -1,0 +1,2 @@
+# aiignore
+AI ignore
