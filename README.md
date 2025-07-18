@@ -1,2 +1,2 @@
-# aiignore
-AI ignore
+# AI IGNORE
+
